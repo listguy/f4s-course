@@ -67,3 +67,7 @@ When we write javascript code, we usually need to think who is going to write it
 flash
 ## Tasks
 https://forms.gle/4bwWqU79M2T9aVL4A
+https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/
+https://docs.google.com/forms/d/e/1FAIpQLScNQw6AlTlkWe4Tlt61vwm_WTwrxkm8poUJbblenLiciwuQNA/viewform
+
