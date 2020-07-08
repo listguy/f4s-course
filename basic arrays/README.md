@@ -46,6 +46,18 @@
  ![](https://i.imgur.com/2XzWcD6.png)
  
 	 * Create array with 10 objects, each object has the properties: estimatedTime (number) actualTime (number), and description (string).
+	 example: ``` const tasks = [
+  {
+    estimatedTime: 10,
+    actualTime: 5,
+    description: "HTML task",
+  },
+  {
+    estimatedTime: 15,
+    actualTime: 15,
+    description: "CSS task",
+  }
+]; ```
 	 * Show html table with the specified work with the information in the array (as in the image).
 	 * Show the total amount of the hours (as in the image) 
 	 * Add variable with the price per hour and show the total payment amount 
