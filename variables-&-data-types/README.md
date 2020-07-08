@@ -1,3 +1,4 @@
+
 # Variable + data types
 
 What is it variable
@@ -45,6 +46,7 @@ JavaScript Arithmetic
 [https://www.w3schools.com/js/js_datatypes.asp](https://www.w3schools.com/js/js_datatypes.asp)
 
 [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence
 
 [https://www.youtube.com/watch?v=u0Mq3FzpsmI](https://www.youtube.com/watch?v=u0Mq3FzpsmI)
 
@@ -56,7 +58,7 @@ JavaScript Arithmetic
 
 [https://www.youtube.com/watch?v=O9by2KcR2v4](https://www.youtube.com/watch?v=O9by2KcR2v4)
 
-## Tasks
+## Optional Tasks
 
 [https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_variables1](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_variables1)
 
