@@ -1,4 +1,5 @@
 
+
 # Javascript's Arrays
 
 ## Strings
@@ -44,7 +45,6 @@
  * subscribe to justjavascript.com, read all first 8 chapters, do the exercises
  * Payment Report Task
  ![](https://i.imgur.com/2XzWcD6.png)
- 
 	 * Create array with 10 objects, each object has the properties: estimatedTime (number) actualTime (number), and description (string).
 	 example: ``` const tasks = [
   {
