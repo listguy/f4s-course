@@ -49,6 +49,11 @@ If else
 
 [https://www.w3schools.com/js/js_comparisons.asp](https://www.w3schools.com/js/js_comparisons.asp)
 
+## Optional Tasks
+
+[https://www.codecademy.com/learn/introduction-to-javascript](https://www.codecademy.com/learn/introduction-to-javascript)
+
+
 ## Tasks
 
 [https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_operators1](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_operators1)
@@ -57,4 +62,3 @@ If else
 
 [https://www.w3resource.com/javascript-exercises/javascript-conditional-statements-and-loops-exercises.php](https://www.w3resource.com/javascript-exercises/javascript-conditional-statements-and-loops-exercises.php)
 
-[https://www.codecademy.com/learn/introduction-to-javascript](https://www.codecademy.com/learn/introduction-to-javascript)
