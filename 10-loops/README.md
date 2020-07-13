@@ -23,9 +23,9 @@ Array iterators
 
 [https://www.w3schools.com/js/js_loop_for.asp](https://www.w3schools.com/js/js_loop_for.asp)
 
-[https://www.w3schools.com/js/js_array_ite](https://www.w3schools.com/js/js_array_ite)
+https://www.w3schools.com/js/js_loop_while.asp
 
-
+https://www.w3schools.com/js/js_array_iteration.asp
 
 ## Optional Tasks
 
