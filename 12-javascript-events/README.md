@@ -58,14 +58,14 @@ https://javascript.info/event-details
 [https://www.youtube.com/watch?v=EaRrmOtPYTM&list=PLyuRouwmQCjnEupVi5lpP6VrLg-eO-Zcp&index=1](https://www.youtube.com/watch?v=EaRrmOtPYTM&list=PLyuRouwmQCjnEupVi5lpP6VrLg-eO-Zcp&index=1)
 
 ## Tasks
-
-https://javascript.info/introduction-browser-events
-https://javascript.info/bubbling-and-capturing
-https://javascript.info/event-delegation
-https://javascript.info/default-browser-action
-https://javascript.info/dispatch-events
-https://javascript.info/mouse-events-basics
-https://javascript.info/mousemove-mouseover-mouseout-mouseenter-mouseleave
+`javascript.info`
+* [introduction-browser-events](https://javascript.info/introduction-browser-events)
+* [bubbling-and-capturing](https://javascript.info/bubbling-and-capturing)
+* [event-delegation](https://javascript.info/event-delegation)
+* [default-browser-action](https://javascript.info/default-browser-action)
+* [dispatch-events](https://javascript.info/dispatch-events)
+* [mouse-events-basics](https://javascript.info/mouse-events-basics)
+* [mousemove-mouseover-mouseout-mouseenter-mouseleave](https://javascript.info/mousemove-mouseover-mouseout-mouseenter-mouseleave)
 
 [https://www.teaching-materials.org/jsweb/exercises/events](https://www.teaching-materials.org/jsweb/exercises/events)
 
