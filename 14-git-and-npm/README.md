@@ -24,6 +24,10 @@ Why GIT?
 
 [GITHUB](https://www.youtube.com/watch?v=w3jLJU7DT5E)
 
+https://guides.github.com/activities/hello-world/
+
+https://guides.github.com/introduction/flow/
+
 ## Tasks
 
 pre-course-project
