@@ -12,6 +12,7 @@ Why GIT?
 - Push / Pull
 
 - Branch
+- Fetch
 
 ![branches](./branches.png)
 
