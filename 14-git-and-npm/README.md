@@ -27,3 +27,10 @@ Why GIT?
 ## Tasks
 
 pre-course-project
+
+
+
+tests 
+
+
+aaa

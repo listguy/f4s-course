@@ -44,3 +44,6 @@ https://www.w3schools.com/js/js_array_iteration.asp
 
 [https://www.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops](https://www.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops)
 
+
+
+code code
