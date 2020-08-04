@@ -74,23 +74,18 @@ Node & ExpressJS - Debugging
 
 [https://www.youtube.com/watch?v=G8uL0lFFoN0](https://www.youtube.com/watch?v=G8uL0lFFoN0)
 
-## Tasks
-Create Restful API for for task management with 5 entry points:
- - a GET request to /tasks/ returns a list of tasks from a static array
- - a GET request to /tasks/123 returns the details of task 123 from the static array
- - a POST request to /tasks/123 add to tasks list
- - a PUT request to /tasks/123 update task object
- - a DELETE request to /task/123 delete
-Requirements:
-- Create this project using NodeJS + ExpressJS.
-- Upload it to your Github profile.
-- Send link to the solution repository here https://forms.gle/pgEM5VHyKeVayYxs6
-
-Bonus Exercises:
-[https://www.freecodecamp.org/learn/apis-and-microservices/basic-node-and-express/serve-static-assets](https://www.freecodecamp.org/learn/apis-and-microservices/basic-node-and-express/serve-static-assets)
-
-[https://www.freecodecamp.org/learn/apis-and-microservices/basic-node-and-express/serve-json-on-a-specific-route](https://www.freecodecamp.org/learn/apis-and-microservices/basic-node-and-express/serve-json-on-a-specific-route)
-
-[https://www.freecodecamp.org/learn/apis-and-microservices/basic-node-and-express/chain-middleware-to-create-a-time-server](https://www.freecodecamp.org/learn/apis-and-microservices/basic-node-and-express/chain-middleware-to-create-a-time-server)
-
-[https://www.freecodecamp.org/learn/apis-and-microservices/basic-node-and-express/use-body-parser-to-parse-post-requests](https://www.freecodecamp.org/learn/apis-and-microservices/basic-node-and-express/use-body-parser-to-parse-post-requests)
+## Task: My First Fullstack App - shopping list
+ - Create new private repository
+ - Create new brunch called "backend"
+ - Create Restful API using NodeJS + ExpressJS for [shopping list app](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents#Active_learning_A_dynamic_shopping_list:~:text=Active%20learning%3A%20A%20dynamic%20shopping%20list) with 5 entry points:
+    - a GET request to /products/ returns a list of products object from a static array
+    - a GET request to /products/{id} returns the details of product 123 from the static array
+    - a POST request to /products create new product object in the static array and return the new product object (should include unique id)
+    - a PUT request to /products/{id} get in the body params updated product object, update product object and return the updated product
+    - a DELETE request to /products/{id} delete a product from the static array
+  - Invite your [pair](https://docs.google.com/spreadsheets/d/1XdLhJXTHBRMqPcOZbHxSebjQQMCr7D9xkPeHxOM9-qg/edit#gid=0) as a collaborator to you repository
+  - Do a code review with your pair and merge to master
+  - Clone you pair's repo
+  - Create a new pull request in your pair repository called "clientside"
+  - Write a client side shopping app for your pair that use the backend APIs using AJAX
+  - Send link to the solution repository here https://forms.gle/pgEM5VHyKeVayYxs6 - without merge the second brunch
