@@ -1,0 +1,23 @@
+{
+  "name": "css-task-poc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuySerfaty/css-task-poc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuySerfaty/css-task-poc/issues"
+  },
+  "homepage": "https://github.com/GuySerfaty/css-task-poc#readme",
+  "devDependencies": {
+    "puppeteer": "^3.3.0",
+    "puppeteer-screenshot-tester": "^1.1.1"
+  }
+}
