@@ -42,10 +42,14 @@ Grid
 
 ## Tasks
 
-Flexbox task in the folder-
+Flexbox task in the folder
+
 cd flex-box-task
+
 npm install
+
 cd flex-box-task
+
 run test - jest
 
 
